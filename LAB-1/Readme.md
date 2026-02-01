@@ -6,11 +6,8 @@
 
 [![OpenMP](https://img.shields.io/badge/OpenMP-4.5+-blue.svg)](https://www.openmp.org/)
 [![C](https://img.shields.io/badge/Language-C-00599C.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 **Course:** UCS645 - Parallel and Distributed Programming  
 **Student:** Mustansir Kanor | **Institution:** Thapar Institute  
-**Semester:** Spring 2026
 
 [Overview](#-overview) • [Programs](#-programs) • [Results](#-results) • [Installation](#-installation) • [Report](Lab1_Report.md)
 
