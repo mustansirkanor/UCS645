@@ -361,20 +361,6 @@ Contributions are welcome! Please follow these guidelines:
 - Add comments for complex logic
 - Include unit tests for new features
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
 
 ---
 
