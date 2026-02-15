@@ -1034,15 +1034,9 @@ Assignment 2 - Question 2: DNA Sequence Alignment
 
 ---
 
-### 🏆 Learning Achievement
 
-**Grade: A+**
 
-*Not for achieving speedup, but for understanding why parallelization failed and learning the fundamental principle: Sometimes the best optimization is NOT to parallelize!*
 
----
-
-<sub>Made with 🧬 using Smith-Waterman Algorithm and OpenMP</sub>
 
 </div>
 
